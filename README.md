@@ -27,20 +27,20 @@ Website is hosted via **InfintyFree**
 ## 🖼 Screenshots
 
 ### Homepage
-![homepage](https://github.com/user-attachments/assets/8ba7d857-63bb-4d69-b0e5-0261154e7e5e)
+![homepage](assets/homepage.png)
 
 ### Homepage Slider
-![homepage-slider](https://github.com/user-attachments/assets/f4d9db64-4837-4363-9aba-db3f726d5be3)
+![homepage-slider](assets/homepage-slider.png)
 
 ### Login
-![login](https://github.com/user-attachments/assets/b2f962c2-aa23-4bf6-b06d-c69386a195b5)
+![login](assets/login.png)
 
 ### Menupage
-![menupage](https://github.com/user-attachments/assets/89e5ec0a-db86-449c-89f1-306f1dd6e00f)
+![menupage](assets/menupage.png)
 
 ### Order
-![order](https://github.com/user-attachments/assets/a3e0417b-dac6-49ea-a4e8-0dc3aaa78962)
+![order](assets/order.png)
 
 ### Wishlist
-![wishlist](https://github.com/user-attachments/assets/d27ebb80-3ab6-41d3-b886-d2f78bd0b0d9)
+![wishlist](assets/wishlist.png)
 
