@@ -44,3 +44,32 @@ Website is hosted via **InfintyFree**
 ### Wishlist
 ![wishlist](assets/wishlist.PNG)
 
+## 🚀 Installation
+# 1️⃣ Clone the repository
+https://github.com/Gagasgees/gesge-restaurant.git
+
+# 2️⃣ Import into the project directory
+cd gesge-restaurant
+
+# 3️⃣ Import the database
+# Open phpMyAdmin or your tool database
+# Make a new database (for example : gesge-restaurant)
+# Import your file SQL there are in folder database
+
+# 4️⃣ Update database configuration
+# Edit file connection.php/config.php
+# Make a local your canfiguration :
+# $db_name = "mysql:host=localhost;dbname=gesge-restaurant";
+# $db_user = "root";
+# $db_pass = " ";
+
+# 5️⃣ Run the app
+# Run a local server, for example in XAMPP : https://localhost/gesge-restaurant/
+
+## 🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+## 🙎‍♂️ Author
+Gagas
+[Github] (https://github.com/gagasgees)
+[LinkedIn] (https://www.linkedin.com/in/gagas-6b5368315?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
