@@ -27,20 +27,20 @@ Website is hosted via **InfintyFree**
 ## 🖼 Screenshots
 
 ### Homepage
-![homepage](assets/homepage.png)
+![homepage](assets/homepage.PNG)
 
 ### Homepage Slider
-![homepage-slider](assets/homepage-slider.png)
+![homepage-slider](assets/homepage-slider.PNG)
 
 ### Login
-![login](assets/login.png)
+![login](assets/login.PNG)
 
 ### Menupage
 ![menupage](assets/menupage.png)
 
 ### Order
-![order](assets/order.png)
+![order](assets/order.PNG)
 
 ### Wishlist
-![wishlist](assets/wishlist.png)
+![wishlist](assets/wishlist.PNG)
 
