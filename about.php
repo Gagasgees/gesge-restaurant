@@ -1,3 +1,4 @@
+
 <?php 
     session_start();
     include 'components/connection.php';
@@ -150,4 +151,6 @@
     <?php include 'components/alert.php'; ?>
    
 </body>
+
+
 </html>

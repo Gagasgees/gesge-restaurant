@@ -1,3 +1,4 @@
+
 <div class="top-footer">
     <h2> <i class="fas fa-envelope"></i>Sign Up for Newsletter </h2>
 
@@ -65,4 +66,6 @@
             </div>
         </div>
     </div>
+
+
 </footer>

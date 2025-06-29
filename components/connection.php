@@ -1,3 +1,4 @@
+
 <?php 
     $db_name = 'mysql:host=localhost;dbname=restaurant_db';
     $db_user = 'root';

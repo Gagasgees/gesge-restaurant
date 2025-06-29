@@ -1,3 +1,4 @@
+
 <?php 
     session_start();
     include 'components/connection.php';
@@ -100,4 +101,5 @@
     
  
 </body>
+
 </html>
